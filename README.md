@@ -1,2 +1,0 @@
-# QuanLyDoTheThao
-QLDTT
